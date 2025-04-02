@@ -22,7 +22,7 @@
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dineshsharma86/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/YourUsername)  
 [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-purple?style=flat&logo=hackerone)](https://hackerone.com/YourUsername)  
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-orange?style=flat&logo=bugcrowd)](https://bugcrowd.com/YourUsername)  
