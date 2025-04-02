@@ -1,3 +1,4 @@
+![BitsandBucks Banner](https://github.com/0sudo/BitsandBucks/raw/main/ChatGPT Image Apr 2, 2025, 12_16_15 PM.png)
 # 👋 Hey, I'm Dinesh  
 🚀 **Ethical Hacker | Cybersecurity Enthusiast | Red Teamer**  
 
