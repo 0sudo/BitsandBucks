@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]  
+# 👋 Hey, I'm Dinesh  
 🚀 **Ethical Hacker | Cybersecurity Enthusiast | Red Teamer**  
 
 🔹 **2.5+ years** of experience in **Web, API, Network, and Mobile Security**  
@@ -29,9 +29,3 @@
 
 ---
 
-### **💡 What’s Next?**
-✅ **Add this README to your GitHub profile**  
-✅ **Stay active** (even without repos, commit small pentesting scripts or notes)  
-✅ **Engage with other security pros on GitHub**  
-
-🚀 **Done? Drop your GitHub link, and I’ll review it for you!** 🔥💻
